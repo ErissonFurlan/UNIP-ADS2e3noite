@@ -1,0 +1,9 @@
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe.config
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.pdb
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.Properties.Resources.resources
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.GenerateResource.Cache
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.exe
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.pdb
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csprojResolveAssemblyReference.cache
+c:\users\d314335\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.frm.resources
